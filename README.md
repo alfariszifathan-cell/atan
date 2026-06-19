@@ -1,4 +1,3 @@
-<!DOCTYPE html!>
 <html>
     <head>
         <title>judul halaman</title>
@@ -17,7 +16,9 @@
     <a href="https://vm.tiktok.com/ZSQ78kaJe/">
         <button>vidio ke3</button>
     <a href="https://www.tiktok.com/@khawaja.khurram.m/video/7640450077135277333?is_from_webapp=1&sender_device=pc&web_id=7652963164623652370">
-        <button>codind html</button>
+        <button>coding html</button>
+    <a href="https://vt.tiktok.com/ZSQ7yV2wW/">
+        <button>urutan codding</button>
     </a>
-   </body>
+</body>
 </html>
