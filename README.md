@@ -1,6 +1,5 @@
 <html>
     <head>
-        <title>judul halaman</title>
 </head>
 <body>
     <h1>halo semua nya</h1>
